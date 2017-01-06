@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Leopard.LeopardComponent" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAAAAAAAAAAAECABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Leopard\LeopardComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.LeopardInfo" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAACAAAEAQAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Leopard\LeopardInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_Offset" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIABAgQAAACAAAAAAAABAEAABEAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>LeopardMeshEdit\GHC_Offset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_PictureFrame" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAQAAACAAAAAAAABAEQABAAAAAAQAIAAAEAAAA=</HashCode>
+      <FileName>LeopardMeshEdit\GHC_PictureFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_Stellate" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAQAAACAAAAAAAABAEAABQAAAAAQAIAAAEAAAA=</HashCode>
+      <FileName>LeopardMeshEdit\GHC_Stellate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_ReactionDiffusion" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>LeopardMeshPattern\GHC_ReactionDiffusion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_Simplification" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>LeopardMeshSimple\GHC_Simplification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_CatmullClark" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAACAAAAAABAAAAEAABAAAAAAAAAAAEEAAEA=</HashCode>
+      <FileName>LeopardMeshSubD\GHC_CatmullClark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_Loop" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAACAAAAAABAAAAEAABAAAAAAAAAAAEEAAEA=</HashCode>
+      <FileName>LeopardMeshSubD\GHC_Loop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.SubdivisionComponent" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CRMCJJAUAAACAAAAEABADAEwABQBFAAAQAcAAAEAABg=</HashCode>
+      <FileName>LeopardMeshSubD\SubdivisionComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.SubdivisionGUIAttributes" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAEAAAAAAAAQIAhACAAAAAAA=</HashCode>
+      <FileName>LeopardMeshSubD\SubdivisionGUIAttributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_DualMesh" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAACAAAAEBAABAEAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>LeopardMeshTopo\GHC_DualMesh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_EdgeNeighbours" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAACAAAEABAABAEAABAEAAAACAAAAEEAAAE=</HashCode>
+      <FileName>LeopardMeshTopo\GHC_EdgeNeighbours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_Edges" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIARAAAAAACAAAAAJAABAEAABAAAAAAAAAAAEEAAAA=</HashCode>
+      <FileName>LeopardMeshTopo\GHC_Edges.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_FaceNeighbours" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIBAAAAAACAAAAABAABAEAABIAAAAAAAIAAAEAAAA=</HashCode>
+      <FileName>LeopardMeshTopo\GHC_FaceNeighbours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_Faces" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIABAAAAAACACAAABAABAEAABAAAAAAAEAAAAEAAQA=</HashCode>
+      <FileName>LeopardMeshTopo\GHC_Faces.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_VertexNeighbours" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBBAAACAACAAACABAABAEAADAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>LeopardMeshTopo\GHC_VertexNeighbours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_Vertices" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAgAAAgCAAAAABAABAEAQBAAAACABAAAACEAAAA=</HashCode>
+      <FileName>LeopardMeshTopo\GHC_Vertices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_MeshClean" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIABAAAAAACAAAAAAAAAAEAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>LeopardMeshUtil\GHC_MeshClean.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.GHC_Select" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIABBQAAAAgAAAAEABASCEwADABFAAAQCFAAiEAABg=</HashCode>
+      <FileName>LeopardTest\GHC_Select.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.AttributesButton" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAIAhAAAAAAAAI=</HashCode>
+      <FileName>LeopardTest\GHC_Select.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.CompareGoo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>LeopardTest\GHC_Select.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Leopard.MeshEdit" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>LeopardUtil\MeshEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plankton.PlanktonFace" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Plankton\PlanktonFace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plankton.PlanktonFaceList" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABUEAAAAgALAACAAACgQggAAAQAAEQAABAABAAAA=</HashCode>
+      <FileName>Plankton\PlanktonFaceList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Plankton.PlanktonHalfedge" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAgBAAAAACAAAAAIAAAAACAAAABA=</HashCode>
+      <FileName>Plankton\PlanktonHalfedge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plankton.PlanktonHalfEdgeList" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAEAAAAggBAADAAACgQEggAAAAAEwgBBABABEAE=</HashCode>
+      <FileName>Plankton\PlanktonHalfedgeList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Plankton.PlanktonMesh" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAEAAAAAAAAQAAIAgAAAAAAAAAEAoAAIAAgAA=</HashCode>
+      <FileName>Plankton\PlanktonMesh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plankton.PlanktonVertex" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAACQAAYAE=</HashCode>
+      <FileName>Plankton\PlanktonVertex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plankton.PlanktonVertexList" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAIIAECAgEBAECAAACAQgwAKAAAAFwACFAAAACAE=</HashCode>
+      <FileName>Plankton\PlanktonVertexList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PlanktonGh.DecomposePlankton" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAAAAAABAAAAEAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>PlanktonGh\DecomposePlankton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlanktonGh.GH_PlanktonMesh" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAQAAAAAgQAEQAAAIDQggCAADBFAAAAgAAAICAE=</HashCode>
+      <FileName>PlanktonGh\GH_PlanktonMesh.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PlanktonGh.GH_PlanktonMeshParam" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAABAAAAAAAAAAAARQAADICAAAACAAAAAAAABEECCA=</HashCode>
+      <FileName>PlanktonGh\GH_PlanktonMeshParam.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PlanktonGh.GHMeshToPMesh" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAAAAAAABAAAAEAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>PlanktonGh\GHMeshToPMesh_OBSOLETE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlanktonGh.RhinoSupport" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCIAAAAAECAAAAAUAAACAAAAAAAAAAggCAAAACAAAAA=</HashCode>
+      <FileName>PlanktonGh\RhinoSupport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.Properties.Resources" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAAAABAAAAAAABFAAAAQAABAAACAAAAEAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leopard.Properties.Settings" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Plankton.PlanktonXYZ" Collapsed="true">
+    <Position X="5.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAJAAQAAAAE4AEAAABAAQAAAIAAAAIAAEAAYiE=</HashCode>
+      <FileName>Plankton\PlanktonXYZ.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
